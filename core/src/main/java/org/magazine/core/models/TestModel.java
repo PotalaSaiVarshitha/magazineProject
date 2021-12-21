@@ -5,7 +5,7 @@ import org.apache.sling.models.annotations.Model;
 
 @Model(adaptables = Resource.class)
 public class TestModel {
-	public void m1() {
+	public void models() {
 		
 	}
 
